@@ -83,7 +83,7 @@ h3{
 }
 
 .carousel-item{
-    padding: 10% 15%;
+    padding: 5% 15%;
 }
 
 .test-img{
@@ -95,7 +95,7 @@ h3{
     background-color: rgb(248, 246, 238);
     text-align: center;
     width: auto;
-    height: 45rem;
+    height: 40rem;
 }
 
 .gallery-img{
@@ -129,8 +129,8 @@ h3{
         text-align: center;
     }
 
-    .CarouselGallery{
-        height: 30rem;
+    #Gallery{
+        height: 45rem;
     }
 
     #testimonials{
