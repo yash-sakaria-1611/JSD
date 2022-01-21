@@ -1,0 +1,162 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background-color: darkmagenta;
+}
+
+#cf2{
+    padding: 3% 15%;
+    padding-top: 4.5rem;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 2.75rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.jsd-gaming{
+    width: 100%;
+    height: auto;
+    border-radius: 40%;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-light";
+}
+
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+
+#features{
+    background-color: rgb(248, 246, 238);
+    text-align: center;
+    padding: 10% 15%;
+}
+
+.quo{
+    color: #8f8f8f;
+}
+
+.fas{
+    margin-bottom: 1.5rem;
+    font-size: 5rem;
+}
+
+.fas:hover{
+    color: darkmagenta;
+    margin-bottom: 1.5rem;
+    font-size: 5rem;
+}
+
+#testimonials{
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+.carousel-item{
+    padding: 10% 15%;
+}
+
+.test-img{
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#Gallery{
+    background-color: rgb(248, 246, 238);
+    text-align: center;
+    width: auto;
+    height: 45rem;
+}
+
+.gallery-img{
+    width: 50%;
+    height: auto;
+}
+
+#pricing{
+    background-color: darkslateblue;
+    text-align: center;
+    padding: 5% 15%;
+}
+
+.price-img{
+    width: 200px;
+    height:auto;
+}
+
+.card-header{
+    background-color: black;
+    color: white;
+}
+
+.card-footer{
+    background-color: black;
+    color: white;
+}
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+
+    #Gallery{
+        height: 20rem;
+    }
+
+    #testimonials{
+        height: 15rem;
+    }
+}
+
+#cta{
+    background-color: darkmagenta;
+    text-align: center;
+    padding: 2% 15%;
+}
+
+.bottom-button{
+    margin: 1%;
+}
+
+#footer{
+    background-color: rgb(248, 246, 238);
+    text-align: center;
+    padding: 1% 15%;
+}
+
+.footer-logo{
+    font-size: 3rem;
+    margin: 2%;
+}
+
+
